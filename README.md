@@ -6,7 +6,7 @@
   SQL no NodeJs com Sequelize 
 </h3>
 
-<p align="center">Repositório para salvar o projeto desenvolvido com NodeJs desenvolvido junto com o [tutorial](https://youtu.be/Fbu7z5dXcRs) no canal da RocketSeat no Youtube.</p>
+<p align="center">Repositório para salvar o projeto desenvolvido com NodeJs desenvolvido junto com o tutorial no canal da RocketSeat no Youtube.</p>
 
 ## 🚀 Tecnologias
 
